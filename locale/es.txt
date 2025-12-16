@@ -1,0 +1,23 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_33196F0F_2727_5B65_41BC_34F19FA652FC.label = Bad 1
+panorama_354D4A54_2727_65FA_41AF_5AC1131F367C.label = Bad 2
+panorama_35462563_2727_6FDD_41C2_AE1113576735.label = Entrée
+panorama_35440085_2727_A55A_418D_998FF6E12138.label = Korridor
+panorama_3544BA6A_2727_A5AF_41C0_78D820AAC6B8.label = Küche
+panorama_354435BE_2727_AEA7_41C1_445E60F686F8.label = Vorraum
+panorama_3544C05B_2727_E5ED_41C0_C0530413F142.label = Wohnen-Essen
+panorama_3544DB19_2727_FB6A_41B7_004C17F5F8A7.label = Zimmer 1
+panorama_35443522_2727_EF5E_41B8_4CC92F08B1AB.label = Zimmer 2
+panorama_35442FCD_2727_DAEA_41C2_727B817F3DCF.label = Zimmer 3
+panorama_35446A7B_2727_A5AD_41C3_6FF3DD40BEB0.label = Zimmer 4
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 3
